@@ -1,2 +1,3 @@
 # stolenprojs
-Working on documenting code from projects already out there
+Working on code documentation from projects already out there to understand
+
